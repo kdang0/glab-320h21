@@ -1,0 +1,9 @@
+.navContainer{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+
+
